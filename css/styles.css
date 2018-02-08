@@ -1,0 +1,142 @@
+body {
+	margin: 0 auto;
+	padding: 0px;
+    font-family: Times new Roman;
+    text-align: center;
+}
+a {
+	text-decoration: none;
+}
+/***********Блок Welcome*****/
+.welcome {
+	background: #F05959;
+	overflow: auto;
+	color: white;
+}
+#welcome {
+	font-size: 50px;
+}
+#asm {
+	font-size: 15px;
+	//padding: 0;
+}
+/***********Блок шапки*******/
+.backtop{
+	background: #F57A7A; 
+}
+.top{
+    max-width: 950px;
+    margin: 0 auto;
+    overflow: hidden;
+	background: #F57A7A;
+}
+.top a {
+	color: white;
+}
+.float{
+	float: left;
+	color: white;
+}
+#name {
+	font-size: 20px;
+}
+#pod {
+	font-size: 12px;
+}
+.navigation li {
+	display: inline;
+	padding-left: 20px;
+}
+.navigation{
+	float: right;
+    padding-top: 10px;
+}
+/*********Блок смарт****/
+.smart {
+	background: black;
+	color: white;
+	overflow: auto;
+}
+.smart p {
+	color: #eb504e;
+}
+.icon1 {
+	width: 15%;
+	float: left;
+	margin: 0;
+}
+.icon1 img{
+	width: 50%;
+}
+.icons {
+	max-width: 950px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	
+}
+.icons h4 {
+	font-size: 11px;
+	color:#eb504e;
+}
+
+/*****блок разработчиков*****/
+.talented {
+	background: #6CC372;
+	overflow: auto;
+	padding-bottom: 10px;
+}
+.tm {
+	max-width: 950px;
+	margin: 0 auto;
+}
+.team {
+	float: left;
+	width: 160px;
+	background: white;
+	color: #6CC372;
+	margin-left: 6%;
+}
+.team img{
+	width: 70%;
+}
+.ava {
+	padding: 7px 0 0 0;
+}
+.job {
+	font-size: 13px;
+	color: #eb504e;
+}
+/********нижний блок******/
+.bottom {
+	background: black;
+	overflow: auto;
+	padding-top: 8px;
+	padding-bottom: 6px;
+}
+.bot1 {
+	max-width: 950px;
+	margin: 0 auto;
+}
+#copy {
+	color: white;
+	display:inline;
+}
+#motion {
+	color:#eb504e;
+	display:inline;
+}
+#design {
+	color: white;
+	display:inline;
+}
+.kop {
+	float: left;
+	
+}
+.soc {
+	width: 18px;
+	padding-top: 5px;
+	float: right;
+	padding-right: 10px
+}
